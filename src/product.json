@@ -1,0 +1,83 @@
+{
+    "product":[
+        {
+            "id":1,
+            "pname":"A",
+            "price":100,
+            "quantity":3,
+            "image":"1.jfif"
+        },
+
+        {
+            "id":2,
+            "pname":"B",
+            "price":500,
+            "quantity":2,
+            "image":"2.jpg"
+        },
+
+        {
+            "id":3,
+            "pname":"C",
+            "price":60,
+            "quantity":15,
+            "image":"3.jfif"
+        },
+
+        {
+            "id":4,
+            "pname":"D",
+            "price":80,
+            "quantity":30,
+            "image":"4.jfif"
+        },
+
+        {
+            "id":5,
+            "pname":"E",
+            "price":20,
+            "quantity":23,
+            "image":"5.jfif"
+        },
+
+        {
+            "id":6,
+            "pname":"F",
+            "price":40,
+            "quantity":45,
+            "image":"6.jfif"
+        },
+
+        {
+            "id":7,
+            "pname":"G",
+            "price":90,
+            "quantity":37,
+            "image":"7.jpg"
+        },
+
+        {
+            "id":8,
+            "pname":"H",
+            "price":230,
+            "quantity":31,
+            "image":"8.jpg"
+        },
+
+        {
+            "id":9,
+            "pname":"I",
+            "price":454,
+            "quantity":127,
+            "image":"9.jpg"
+        },
+
+        {
+            "id":10,
+            "pname":"J",
+            "price":50,
+            "quantity":3,
+            "image":"10.jfif"
+        }
+    ]
+}
